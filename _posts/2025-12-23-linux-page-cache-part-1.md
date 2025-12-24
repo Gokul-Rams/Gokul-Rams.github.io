@@ -1,5 +1,5 @@
 ---
-title: Linux Page Cache Under the Hood (Part 1) - Page Cache, Page Tables, Files Reads
+title: Linux Page Cache Under the Hood (Part 1) - Introduction, Files Reads
 categories: [Linux, Memory Management]
 tags: [linux, files, operating-systems, page-cache]
 toc: true
