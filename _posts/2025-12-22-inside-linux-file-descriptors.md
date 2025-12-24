@@ -1,7 +1,7 @@
 ---
 title: Inside Linux File Descriptors
 date: 2025-09-14 12:00 +0530
-categories: [OS, Files and File Systems]
+categories: [Linux, Files and File Systems]
 tags: [linux, files, operating-systems]
 toc: true
 description:: Working parts behind file descriptors in Linux systems
